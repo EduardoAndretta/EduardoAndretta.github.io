@@ -1,14 +1,18 @@
+
+/* LOGO */
+
 .logoclass{
     width:100px;
     height:50px;
-
 }
+
+/* SECTION - INSTRODUCTION */
+
 .introduction h5{
     color:rgb(255, 255, 255);
     font-weight: bold;
     font-size: 26px;
     text-shadow: 0 0 5px black;
-  
 }
 .introduction p{
     color:rgb(255, 255, 255);
@@ -16,58 +20,51 @@
     font-size: 20px;
     display: inline;
     text-shadow: 0 0 5px black;
-
 }
-.height-img{
-    width: 100%;
-    height: 100%;
 
-}
-@media (max-width: 600px){
-    .height-img{
-        
-        width: 100%;
-        height: 95%;
-    }
+/* CARD */
 
+.card{
+    opacity: 0.8;
 }
-/* Background --> Cores e Imagem */
+
+
+/* BEFORE */
 
 .content{
     margin-top:1.5%;
     color:rgb(255, 255, 255);
-
 }
-.content h1::before{
-   
+.content h1::before{ 
     content:"";
     width: 95%;
     height: 3px ;
     display: block;
     background-color: #FFFF;
     margin: 1% auto;
-
 }
 .content p{
     margin-top:1.5%;
-
 }
+
+/* CAROUSEL */
+
 .carousel2 h1{
     color:#FFFF;
     margin-left:1%;
-
 }
+
+/* EVA ICON */
+
 .eva01{
     width: 10%;
     height:10%;
-    border-radius: 100%;
-    
+    border-radius: 100%;   
 }
 .eva02{
     width: 10%;
     height:100%;
-    border-radius: 100%;
-    
+    border-radius: 100%;  
 }
 .btnEva{
     background-color: rgba(59, 56, 56, 0.733);
@@ -76,29 +73,21 @@
     border-width: 2px;
     border-radius: 9px;
     margin-top: 2%;
-    
-  
 }
 .caracter1{
     color:white;
     margin-top:1.5%;
-
 }
 .caracter1 .card{ 
     color:black;
-
 }
 .caracter1 p{
     display:block;
     width:100%;
 }
-
 .eva00{
-
     width: 10%;
     height:10%;
     border-radius: 100%;
-
-
 }
 
