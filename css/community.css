@@ -1,0 +1,33 @@
+/* Anime Miru */
+
+.communityImage{
+    background-image: url(./../img/banner-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    color: white;
+}
+.communityImage h1{
+    padding-top: 40%;
+    color:white;
+    text-transform: uppercase;                             
+    text-shadow: 2px 2px 2px black;                       
+    font-size: 400%;
+    text-align: right;
+    
+}
+.evageeksTitle{
+    color:white;                                            
+
+}
+section .evageeks{
+    padding-top:1%;
+    padding-bottom: 1%;
+    
+}
+
+
+
+
+
+    
+
