@@ -46,3 +46,29 @@ body{
 
 }
 
+/* FOOTER */
+
+.colorFooter{
+    background-color: rgba(247, 247, 247, 0.075);
+    border-radius: 5%;
+}
+.footerIconEvangelion{
+    height:100px;
+    width:250px;
+ 
+}
+.footerIconWikipedia{
+    height:100px;
+    width:100px;
+    
+}
+.footerP{
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 2%;
+
+}
+.footerEvangelion{
+    padding-bottom: 1%;
+}
