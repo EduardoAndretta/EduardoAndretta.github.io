@@ -1,24 +1,19 @@
 /* Anime Miru */
 
 .asukaImage{
-
-
-    background-image: url(./../img/Asuka-GIF-Hard.gif);
+    background-image: url(./../img/banner-3.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;  
     color: white;
-    text-align: right;
-    height: 1000px;
-   
+
 }
-
 .asukaImage h1{
-
-    padding-top:20%;
+    padding-top: 40%;
+    color:white;
     text-transform: uppercase;                             
-    text-shadow: 0px 0px 2px black;                       
+    text-shadow: 2px 2px 2px black;                       
     font-size: 400%;
-    margin-right: 9px;
+    text-align: right;
 
 }
 
