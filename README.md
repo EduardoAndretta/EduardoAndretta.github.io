@@ -1,6 +1,6 @@
 エヴァンゲリオン・サイト
 
-Source〘Text〙
+<h2>Source〘Text〙</h2>
 
 【新世紀エヴァンゲリオンのこと】
 
@@ -17,3 +17,7 @@ https://ja.wikipedia.org/wiki/%E6%83%A3%E6%B5%81%E3%83%BB%E3%82%A2%E3%82%B9%E3%8
 【綾波レイのこと】
 
 https://ja.wikipedia.org/wiki/%E7%B6%BE%E6%B3%A2%E3%83%AC%E3%82%A4
+
+
+
+
