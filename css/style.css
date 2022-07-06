@@ -72,3 +72,12 @@ body{
 .footerEvangelion{
     padding-bottom: 1%;
 }
+
+/* Media queries */
+
+@media(max-width: 650px){
+  
+    .footerImage{
+        display: none;
+    }
+}
